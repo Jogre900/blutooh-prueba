@@ -1,0 +1,12 @@
+{
+  "name": "bt-prueba",
+  "displayName": "bt-prueba",
+  "expo": {
+    "name": "bt-prueba",
+    "slug": "bt-prueba",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
